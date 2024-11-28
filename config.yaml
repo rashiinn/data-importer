@@ -1,0 +1,8 @@
+database:
+  host: "localhost"
+  port: 5432
+  database: "postgres"
+  user: "postgres"
+  password: "Incorrect@1"
+
+data_url: "https://api.restful-api.dev/objects"
